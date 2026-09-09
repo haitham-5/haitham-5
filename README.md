@@ -19,7 +19,6 @@
 - 💻 Currently focused on **C++**
 - 🗄️ Also working with **SQL** and **Java**
 - 🔜 Starting **C#** soon
-- 🔐 Long-term goal: moving into **Cybersecurity**
 - 🌍 Based in Misrata, Libya
 - ⚡ Fun fact: still figuring out which language to fall in love with next
 
@@ -40,8 +39,7 @@
   <img src="https://img.shields.io/badge/C%23%20(starting%20soon)-5%25-808080?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Cybersecurity%20(future)-5%25-808080?style=for-the-badge&logo=hackthebox&logoColor=white" />
-</p>
+
 
 <!--
   Update these anytime by changing the percentage number in each badge URL (0-100).
@@ -69,7 +67,6 @@
 **Interested in (future):**
 
 <p>
-  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=00FF00" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
